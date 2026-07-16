@@ -146,7 +146,11 @@ Claude Code (agentic) → SwiftUI → Gemini API → RevenueCat → TestFlight �
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GaziYeasinArifin/GaziYeasinArifin/output/github-snake-dark.svg" alt="Contribution snake eating my GitHub graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaziYeasinArifin/GaziYeasinArifin/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaziYeasinArifin/GaziYeasinArifin/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/GaziYeasinArifin/GaziYeasinArifin/output/github-snake-dark.svg" alt="Contribution snake eating my GitHub graph"/>
+  </picture>
 </div>
 
 <br/>
