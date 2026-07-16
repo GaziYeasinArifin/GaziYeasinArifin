@@ -128,10 +128,10 @@ Claude Code (agentic) → SwiftUI → Gemini API → RevenueCat → TestFlight �
 
 ## Education
 
-| Degree | Institution |
-|--------|-------------|
-| M.A. Interaction Design and Interactive Art | California State University, East Bay |
-| B.S. Software Engineering | — |
+| Degree | Institution | Year |
+|--------|-------------|------|
+| M.A. Interaction Design and Interactive Art | California State University, East Bay | 2025 |
+| B.S. Software Engineering | American International University-Bangladesh (AIUB) | 2015 |
 
 ---
 
