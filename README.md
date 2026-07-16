@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-gaziarifin.com-00B4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://gaziarifin.com)
 [![Case Study](https://img.shields.io/badge/Case%20Study-Mes%20·%20Design%20to%20Ship-5B5BD6?style=for-the-badge&logo=apple&logoColor=white)](https://mes-case-study.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-1a1a2e?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:arifin.yeasin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaziyeasinarifin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeasin-arifin/)
 
 </div>
 
