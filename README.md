@@ -135,15 +135,7 @@ Claude Code (agentic) → SwiftUI → Gemini API → RevenueCat → TestFlight �
 
 ---
 
-## Stats
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=GaziYeasinArifin&show_icons=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=ADFFF0&border_color=1a3a3a&count_private=true&include_all_commits=true&custom_title=GitHub+Stats"/>
-  &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaziYeasinArifin&layout=compact&bg_color=0D1117&title_color=00E5FF&text_color=ADFFF0&border_color=1a3a3a&langs_count=6"/>
-</div>
-
-<br/>
+## Contribution Activity
 
 <div align="center">
   <picture>
