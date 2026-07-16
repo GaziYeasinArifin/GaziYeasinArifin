@@ -146,7 +146,7 @@ Claude Code (agentic) → SwiftUI → Gemini API → RevenueCat → TestFlight �
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaziYeasinArifin&bg_color=0D1117&color=00E5FF&line=00B4CC&point=FFFFFF&area=true&area_color=0D2A2A&hide_border=false&border_color=1a3a3a&custom_title=Contribution+Activity"/>
+  <img src="https://raw.githubusercontent.com/GaziYeasinArifin/GaziYeasinArifin/output/github-snake-dark.svg" alt="Contribution snake eating my GitHub graph"/>
 </div>
 
 <br/>
